@@ -1,0 +1,43 @@
+.App {
+    text-align: center;
+}
+
+.container {
+    width: 1200px;
+    padding-top: 10px;
+    margin: 0px auto;
+    background-color: rgba(130, 130, 130, 0.06);
+    font-size: 36px;
+}
+
+a {
+    text-decoration: none;
+    color: black !important;
+}
+
+a:hover{
+    text-decoration: none !important;
+    color: black !important;
+}
+
+.menu {
+    background-color: #FF6600;
+    padding: 0px 10px 0px 10px;
+}
+
+.name_id {
+    color: #FF6600;
+}
+
+input {
+    font-size: 36px;
+    width: 600px;
+}
+
+button {
+    font-size: 36px;
+    color: black;
+    background-color: #FF6600;
+    border: none;
+    cursor: pointer;
+}
