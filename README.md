@@ -13,7 +13,7 @@ Application require installed `node.js` and `npm` or `yarn`
 Server will listen on port 8000
 * Run client in development mode in client folder with `npm start`
 
-Open `http://localhost:8000` to view it in the browser.
+Open `http://localhost:3000` to view it in the browser.
 
   
 #Build
